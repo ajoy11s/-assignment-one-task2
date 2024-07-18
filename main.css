@@ -1,0 +1,50 @@
+.main-section-body{
+    background-color: #FFF;
+    height: 250px;
+    margin: 20px 30px 20px 30px;
+    align-content: center;
+
+   }
+   div.mycontainer {
+    width:100%;
+    overflow:auto;
+    align-content: center;
+    display: flex;
+    justify-content: center;
+  }
+  div.mycontainer div {
+    width:30%;  
+    float:left;
+  }
+  h2{
+   color: white;
+   padding-left: 10px;
+  }
+  .div-style11{
+    background-color:#27CBEE; 
+    margin: 0px 5px 0px 5px;
+    width:100%;  
+    float:left;
+  }
+  .div-style12{
+    background-color:#1B73F9; 
+    margin: 0px 5px 0px 5px;
+    width:100%;  
+  }
+  .div-style13{
+    background-color:#218656; 
+    margin: 0px 5px 0px 5px;
+    width:100%;  
+  }
+  .div-title{
+    width: 40%; 
+    height: 100%; 
+    text-align: left; 
+    align-content: center;
+  }
+  .div-image-width{
+    width: 60%; 
+  }
+  .div-image-style{
+    float: right; 
+  }
